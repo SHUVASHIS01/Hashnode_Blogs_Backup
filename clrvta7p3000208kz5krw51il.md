@@ -3,8 +3,9 @@ title: "Database Systems: Concepts, Principles, and Applications"
 datePublished: Sat Jan 27 2024 08:30:05 GMT+0000 (Coordinated Universal Time)
 cuid: clrvta7p3000208kz5krw51il
 slug: database-systems-concepts-principles-and-applications
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707146333463/d0a58cf5-64e7-46b7-af4f-faee0931fd0b.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706344195615/626df186-d282-4948-b1fa-cc8cf4784031.jpeg
-tags: databases, exploring-the-basics-of-data-science-a-beginners-guide
+tags: php, databases, exploring-the-basics-of-data-science-a-beginners-guide
 
 ---
 
